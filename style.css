@@ -80,3 +80,17 @@ form button.active {
 form button:hover {
     background-image: linear-gradient(to right,  #0062ff, #005bcb, #2d96ff);
 }
+.gradient-text {
+    background-image: linear-gradient(to right, #66b3ff, #478de0, #2962c0);
+    -webkit-background-clip: text; 
+    background-clip: text; 
+    color: transparent; 
+  }
+
+  .caffeine-image {
+    width: 50px; 
+    height: auto; 
+  }
+  a{
+    color:  #2962c0;
+  }
